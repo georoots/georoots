@@ -1,6 +1,6 @@
-## GeoRoots: Open Source Coffee Industry Tools for EUDR Compliance and geo traceability
+## GeoRoots: Open Source Toolkit for EUDR Compliance and geo traceability
 
-GeoRoots is a collection of minimalistic, open-source tools designed specifically for the coffee industry to meet EU Deforestation Regulation (EUDR) requirements and enhance geo traceability.
+GeoRoots is a collection of minimalistic, open-source tools designed specifically to meet EU Deforestation Regulation (EUDR) requirements and enhance geo traceability.
 
 The core idea of these tools is to simplify working with GeoJSON format as required by EU DDS.
 
@@ -18,9 +18,9 @@ https://georoots.eu/
 
 ## Perfect for:
 
-- Coffee producers and cooperatives
-- Smaller coffee traders and exporters
-- Coffee roasters and importers
+- Producers and cooperatives
+- Smaller traders and exporters
+- Importers, operators
 - Sustainability consultants
 
 ## Contributing
